@@ -42,6 +42,7 @@ app.*.map.json
 /android/app/release
 
 # Templates
+list tema/
 template_bioskop/
 template_restoran/
 
